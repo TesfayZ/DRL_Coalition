@@ -1,3 +1,3 @@
-The code for the paper title [Deep reinforcement learning with coalition action selection for online combinatorial resource allocation with arbitrary action space](https://eprints.soton.ac.uk/487159/)
+The code for the paper title [Deep reinforcement learning with coalition action selection for online combinatorial resource allocation with arbitrary action space](https://dl.acm.org/doi/10.5555/3635637.3662918).
 
 Change the Eps and window size variables in plotresult.py to visualize the figure  with different width of lines. 
